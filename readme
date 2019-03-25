@@ -1,5 +1,8 @@
 BASIC WEBSERVICE WITH GET REQUEST
 
+See:  https://spring.io/guides/gs/rest-service/
+
+
 RUN: Note the change of port!
 http://localhost:8081/greeting?name=blarblariiuy
 
