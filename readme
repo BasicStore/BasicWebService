@@ -1,0 +1,5 @@
+BASIC WEBSERVICE WITH GET REQUEST
+
+RUN: Note the change of port!
+http://localhost:8081/greeting?name=blarblariiuy
+
